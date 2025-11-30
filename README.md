@@ -1,34 +1,34 @@
 # Arjun Vasavan
 
-**B.Tech in Electronics & Communication Engineering**  
-College of Engineering, Chengannur | Minor in Machine Learning
+Embedded systems engineer from India.
 
-Embedded systems engineer specializing in bare-metal programming, firmware development, and hardware-software integration. Currently focused on advanced C programming and Linux kernel internals at Emertxe.
+I work on firmware, device drivers, and system-level programming.
 
-## Technical Skills
+If something interests me, I'll build it and push it to GitHub.
 
-**Programming:** C, C++, Python  
-**Embedded Systems:** STM32, ESP32, Arduino, ARM Cortex-M, RTOS  
-**Protocols:** UART, SPI, I2C, CAN, MQTT, USB  
-**Tools:** GDB, Oscilloscope, STM32CubeIDE, Make, Git  
-**Hardware:** Schematic Reading, Sensor Integration, ADC/DAC, PWM, Timers, Interrupts
+Currently focused on C, Linux internals, and RTOS at Emertxe. My go-to tools are Vim, GDB, and an oscilloscope.
 
-## Current Focus
+I've worked on several embedded projects, but I'm most interested in real-time systems and low-level optimization.
 
-- Advanced C programming and Linux kernel internals
-- System-level programming and data structures
-- Device driver development for embedded Linux
-- Real-time operating systems and scheduling
-- Low-level firmware optimization
+Still learning, still building—probably have more private repos than public ones at this point.
 
-## Areas of Interest
+---
 
-- Linux kernel internals and system programming
-- Real-time operating systems
-- Device driver development
-- Bootloaders and linker scripts
-- Embedded system optimization
+**Tech I use:**  
+C • C++ • STM32 • ESP32 • UART • SPI • I2C • Linux • RTOS • Make • Git
 
-## Contact
+**Currently exploring:**  
+- Linux kernel internals and system calls  
+- Device driver development  
+- Real-time scheduling algorithms  
+- Bootloaders and bare-metal programming
 
-**Email:** vasavanarjun@gmail.com  
+**Fun facts:**  
+- Prefer terminal over GUI  
+- Can debug without printf (but still use it)  
+- Think datasheets are better than most documentation  
+- Interrupts > polling, always
+
+---
+
+**Contact:** vasavanarjun@gmail.com
