@@ -4,7 +4,7 @@ I'm **Arjun Vasavan**, an embedded systems engineer from India.
 
 I work on firmware, device drivers, and system-level programming. If something interests me, I'll build it and push it to GitHub.
 
-Currently diving deep into **C programming and Linux internals** at Emertxe. My go-to tools are Vim, GDB, and an oscilloscope.
+Currently diving deep into **C programming and Linux internals** at Emertxe. My go-to tools are Vim, GDB.
 
 I'm most interested in real-time systems, low-level optimization, and understanding how things work at the hardware level.
 
