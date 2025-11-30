@@ -46,7 +46,7 @@ Still learning, still building—probably have more private repos than public on
 ### 📫 Let's Connect
 
 **Email:** vasavanarjun@gmail.com  
-**Education:** B.Tech in ECE | College of Engineering, Chengannur
+**Education:** B.Tech in ECE with minor in CSE | College of Engineering, Chengannur
 
 ---
 
