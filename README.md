@@ -6,7 +6,7 @@ I work on firmware, device drivers, and system-level programming.
 
 If something interests me, I'll build it and push it to GitHub.
 
-Currently focused on C, Linux internals, and RTOS at Emertxe. My go-to tools are Vim, GDB, and an oscilloscope.
+Currently focused on C, Linux internals, and RTOS at Emertxe. My go-to tools are Vim, GDB.
 
 I've worked on several embedded projects, but I'm most interested in real-time systems and low-level optimization.
 
