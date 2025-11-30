@@ -1,20 +1,18 @@
-# Arjun Vasavan
+# Hey there 👋
 
-Embedded systems engineer from India.
+I'm **Arjun Vasavan**, an embedded systems engineer from India.
 
-I work on firmware, device drivers, and system-level programming.
+I work on firmware, device drivers, and system-level programming. If something interests me, I'll build it and push it to GitHub.
 
-If something interests me, I'll build it and push it to GitHub.
+Currently diving deep into **C programming and Linux internals** at Emertxe. My go-to tools are Vim, GDB, and an oscilloscope.
 
-Currently focused on C, Linux internals, and RTOS at Emertxe. My go-to tools are Vim, GDB, and an oscilloscope.
-
-I've worked on several embedded projects, but I'm most interested in real-time systems and low-level optimization.
+I'm most interested in real-time systems, low-level optimization, and understanding how things work at the hardware level.
 
 Still learning, still building—probably have more private repos than public ones at this point.
 
 ---
 
-**Tech Stack:**
+### 🛠️ Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -25,18 +23,35 @@ Still learning, still building—probably have more private repos than public on
 
 ---
 
-**Currently exploring:**  
-- Linux kernel internals and system calls  
-- Device driver development  
-- Real-time scheduling algorithms  
-- Bootloaders and bare-metal programming
+### 🚀 Currently Exploring
 
-**Fun facts:**  
-- Prefer terminal over GUI  
-- Can debug without printf (but still use it)  
-- Think datasheets are better than most documentation  
-- Interrupts > polling, always
+- Linux kernel internals and system calls
+- Device driver development for embedded systems
+- Real-time scheduling algorithms and RTOS
+- Bootloaders and bare-metal programming
+- Memory management and low-level optimization
 
 ---
 
-**Contact:** vasavanarjun@gmail.com
+### 💡 What I Believe
+
+- Terminal > GUI, always
+- Datasheets are the best documentation
+- Interrupts > polling
+- Good code explains itself (but comments help)
+- Printf debugging works, but GDB is better
+
+---
+
+### 📫 Let's Connect
+
+**Email:** vasavanarjun@gmail.com  
+**Education:** B.Tech in ECE | College of Engineering, Chengannur
+
+---
+
+<div align="center">
+  
+*"Give me a datasheet and a compiler, I'll figure out the rest"*
+
+</div>
