@@ -36,3 +36,5 @@ Interested in real-time systems, low-level optimization, and understanding how t
 **Education:** B.Tech in ECE with minor in CSE | College of Engineering, Chengannur
 
 ---
+![Contributions](https://komarev.com/ghpvc/?username=ArjunVasavan&color=blue&style=flat-square)
+
