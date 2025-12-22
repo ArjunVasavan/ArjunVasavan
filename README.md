@@ -11,15 +11,11 @@ Interested in real-time systems, low-level optimization, and understanding how t
 ### 🛠️ Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GCC](https://img.shields.io/badge/GCC-C44747?style=for-the-badge&logo=gnu&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![I2C](https://img.shields.io/badge/I2C-00599C?style=for-the-badge&logo=i2c&logoColor=white)
-![SPI](https://img.shields.io/badge/SPI-FF6F00?style=for-the-badge&logo=spi&logoColor=white)
-![UART](https://img.shields.io/badge/UART-007ACC?style=for-the-badge&logo=uart&logoColor=white)
 
 ---
 
