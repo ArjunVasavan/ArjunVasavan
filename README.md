@@ -1,10 +1,6 @@
-# Hey there 👋
-
-I'm **Arjun Vasavan**, an embedded systems engineer from India.
-
-I work on firmware, device drivers, and system-level programming. Currently learning C programming and Linux internals at Emertxe.
-
-Interested in real-time systems, low-level optimization, and understanding how things work at the hardware level.
+# Arjun Vasavan
+I write code that runs on silicon, not abstractions.
+Real-time. Low-level. Fast.
 
 ---
 
@@ -19,19 +15,10 @@ Interested in real-time systems, low-level optimization, and understanding how t
 
 ---
 
-### 🚀 Currently Working On
-- Linux kernel internals and system calls
-- Device driver development
-- Real-time scheduling and RTOS
-- Bootloaders and bare-metal programming
-
----
-
 ### 📫 Contact
 **Email:** vasavanarjun@gmail.com  
 **Education:** B.Tech in ECE with minor in CSE | College of Engineering, Chengannur
 
-
 ---
-![Contributions](https://komarev.com/ghpvc/?username=ArjunVasavan&color=blue&style=flat-square)
 
+![Contributions](https://komarev.com/ghpvc/?username=ArjunVasavan&color=blue&style=flat-square)
