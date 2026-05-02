@@ -8,10 +8,8 @@ Real-time. Low-level. Fast.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GCC](https://img.shields.io/badge/GCC-C44747?style=for-the-badge&logo=gnu&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-A40000?style=for-the-badge&logo=gnu&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ---
 ### 📫 Contact
 **Email:** [vasavanarjun@gmail.com](mailto:vasavanarjun@gmail.com)  
