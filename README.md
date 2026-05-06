@@ -20,12 +20,6 @@ Real-time. Low-level. Fast.
 
 ---
 
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ArjunVasavan&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
-
----
-
 ### Contact
 
 **Email:** [vasavanarjun@gmail.com](mailto:vasavanarjun@gmail.com)  
