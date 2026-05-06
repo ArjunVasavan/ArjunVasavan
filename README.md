@@ -1,6 +1,7 @@
 # Arjun Vasavan
 I write code that runs on silicon, not abstractions.
 Real-time. Low-level. Fast.
+<p><em>More of me <a href="https://arjunvasavan.github.io/">here</a></em></p>
 ---
 ### 🛠️ Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
