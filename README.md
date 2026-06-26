@@ -16,6 +16,7 @@ Real-time. Low-level. Fast.
   <img src="https://img.shields.io/badge/GCC-C44747?style=for-the-badge&logo=gnu&logoColor=white" />
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
 ---
