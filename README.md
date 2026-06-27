@@ -15,7 +15,7 @@ Real-time. Low-level. Fast.
 ---
 
 ### Contact
-**Email:** [vasavanarjun@gmail.com](mailto:vasavanarjun@gmail.com)
+**Email:** [vasavanarjun@gmail.com](mailto:vasavanarjun@gmail.com)<br>
 **Education:** B.Tech in ECE with minor in CSE | College of Engineering, Chengannur
 
 ---
