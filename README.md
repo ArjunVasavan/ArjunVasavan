@@ -8,7 +8,7 @@ Real-time. Low-level. Fast.
 ### Tech Stack
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,linux,git,vim,neovim,bash,ubuntu,python,rust&perrow=9" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,linux,git,vim,neovim,bash,python,rust&perrow=9" />
   </a>
 </p>
 
