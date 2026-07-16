@@ -21,3 +21,12 @@ Real-time. Low-level. Fast.
 ---
 
 <img src="https://komarev.com/ghpvc/?username=ArjunVasavan&color=blue&style=flat-square" />
+
+---
+
+<a href="https://github.com/ArjunVasavan/ArjunVasavan">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArjunVasavan/ArjunVasavan/main/dark_mode.svg">
+    <img alt="Arjun Vasavan's GitHub Stats" src="https://raw.githubusercontent.com/ArjunVasavan/ArjunVasavan/main/light_mode.svg">
+  </picture>
+</a>
