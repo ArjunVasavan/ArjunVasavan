@@ -23,6 +23,9 @@ def simple_request(func_name, query, variables):
     """
     request = SESSION.post('https://api.github.com/graphql', json={'query': query, 'variables':variables})
     if request.status_code == 200:
+        response_json = request.json()
+        if 'errors' in response_json:
+            raise Exception(func_name, 'GraphQL returned errors:', response_json['errors'])
         return request
     raise Exception(func_name, ' has failed with a', request.status_code, request.text, QUERY_COUNT)
 
